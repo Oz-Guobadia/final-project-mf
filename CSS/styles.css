@@ -8,12 +8,12 @@ img {
 }
 
 .logo {
-    width: 100%;
+    width: 100px;
     margin: auto;
 }
 
 .hero-section {
-    
+    background-color: black;
     height: 600px;
     background-position: center;
     background-size: cover;
@@ -30,6 +30,6 @@ img {
 }
 
 .carousel-item {
-    height: 400px;
+    height: 500px;
     
 }
